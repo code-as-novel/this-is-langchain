@@ -1,0 +1,6 @@
+langchain
+langchain-community
+langchain-aws
+langchain_openai
+langchain_ollama
+boto3
